@@ -7,3 +7,5 @@ print('wwww')
 print('cho kak')
 
 print('lol')
+
+print('lol2')
