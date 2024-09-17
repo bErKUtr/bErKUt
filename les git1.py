@@ -5,3 +5,5 @@ print('VVVV')
 print('wwww')
 
 print('cho kak')
+
+print('lol')
