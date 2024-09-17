@@ -19,3 +19,5 @@ print('lol5')
 print('Its worked')
 
 print('maybe')
+
+print('Hello my friends')
