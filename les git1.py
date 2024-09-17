@@ -9,3 +9,5 @@ print('cho kak')
 print('lol')
 
 print('lol2')
+
+print('lol3')
