@@ -21,3 +21,8 @@ print('Its worked')
 print('maybe')
 
 print('Hello my friends')
+
+print('Hello my friends')
+
+print('Hello my friends, How are you?')
+
